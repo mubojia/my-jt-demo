@@ -1,0 +1,12 @@
+[
+    {
+        "component": "Images",
+        "url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3593094404,627203995&fm=26&gp=0.jpg",
+        "link": "/tacos",
+        "type": "link-image",
+        "text": {
+            "title": "图片跳转",
+            "link": "/tacos"
+        }
+    }
+]
